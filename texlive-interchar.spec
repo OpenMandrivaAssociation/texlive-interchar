@@ -1,6 +1,6 @@
 Name:		texlive-interchar
 Version:	36312
-Release:	1
+Release:	2
 Summary:	Managing character class schemes in XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interchar
