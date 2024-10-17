@@ -3,7 +3,7 @@ Version:	36312
 Release:	2
 Summary:	Managing character class schemes in XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/interchar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/interchar
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/interchar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/interchar.doc.r%{version}.tar.xz
